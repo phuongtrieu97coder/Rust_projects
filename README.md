@@ -1,4 +1,5 @@
- <img src="https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/893e2214-b8e2-481b-9147-5fedb8f2d161" alt="Rust" width="40px" height="40px">
+![image](https://github.com/user-attachments/assets/f4fc9d8a-6322-443a-8bd2-bcdde80db16b)
+
 
 ![image](https://github.com/phuongtrieu97coder/Rust_projects/assets/82598726/ecdcaee0-84bb-4731-aa94-d7bd915402b7)
 
